@@ -1,0 +1,15 @@
+Email: test@
+abdomen: 12.0
+antebraco_direito: 412.0
+antebraco_esquerdo: 231.0
+braco_direito: 23.0
+braco_esquerdo: 23.0
+cintura: 42.0
+coxa_direita: 32.0
+coxa_esquerda: 34.0
+ombro: 54.0
+panturrilha_direita: 21.0
+panturrilha_esquerda: 2312.0
+peitoral: 24.0
+quadril: 123.0
+torax: 123.0
